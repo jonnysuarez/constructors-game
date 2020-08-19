@@ -1,0 +1,23 @@
+{
+  "name": "constructors-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnysuarez/constructors-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnysuarez/constructors-game/issues"
+  },
+  "homepage": "https://github.com/jonnysuarez/constructors-game#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
